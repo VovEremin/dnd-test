@@ -16,4 +16,4 @@ You will also see any lint errors in the console.
 
 
 
-# `Or Follow link` [https://voveremin.github.io/react-data-grid/](https://voveremin.github.io/react-data-grid/)
+# `Or Follow link` [https://voveremin.github.io/dnd-test/](https://voveremin.github.io/dnd-test/)
