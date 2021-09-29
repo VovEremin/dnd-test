@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dnd-test/static/css/main.99bbf19a.chunk.css",
+    "main.js": "/dnd-test/static/js/main.950f14fd.chunk.js",
+    "main.js.map": "/dnd-test/static/js/main.950f14fd.chunk.js.map",
+    "runtime-main.js": "/dnd-test/static/js/runtime-main.e26730bc.js",
+    "runtime-main.js.map": "/dnd-test/static/js/runtime-main.e26730bc.js.map",
+    "static/js/2.c725e046.chunk.js": "/dnd-test/static/js/2.c725e046.chunk.js",
+    "static/js/2.c725e046.chunk.js.map": "/dnd-test/static/js/2.c725e046.chunk.js.map",
+    "index.html": "/dnd-test/index.html",
+    "static/css/main.99bbf19a.chunk.css.map": "/dnd-test/static/css/main.99bbf19a.chunk.css.map",
+    "static/js/2.c725e046.chunk.js.LICENSE.txt": "/dnd-test/static/js/2.c725e046.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e26730bc.js",
+    "static/js/2.c725e046.chunk.js",
+    "static/css/main.99bbf19a.chunk.css",
+    "static/js/main.950f14fd.chunk.js"
+  ]
+}
